@@ -8,19 +8,11 @@
 
 - 🌱 I’m currently learning **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Data Analysis & Visualization**
 
-- 👯 I’m looking to collaborate on **Open-source Python or Data Analysis projects**
-
 - 🤝 I’m looking for help with **Advanced Python and Machine Learning techniques**
 
-- 👨‍💻 All of my projects are available at [https://joypal-hazard-2418.web.app/](https://joypal-hazard-2418.web.app/)
+- 👨‍💻 My Portfolio - [https://joypal-hazard-2418.web.app/](https://joypal-hazard-2418.web.app/)
 
-- 💬 Ask me about **Data Analysis, Python, React, Front-End Development**
-
-- 📫 How to reach me **joypal.hazard@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-2lQaTTcrRmfJ2gO-1EnLeaPpwAFp-0Z/view?usp=sharing](https://drive.google.com/file/d/1-2lQaTTcrRmfJ2gO-1EnLeaPpwAFp-0Z/view?usp=sharing)
-
-- ⚡ Fun fact **I love turning messy data into clear insights!**
+- 📫 Email Me- **joypal.hazard@gmail.com**
 
 ---
 
