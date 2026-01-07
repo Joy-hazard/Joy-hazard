@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joy Pal.</h1>
 <h3 align="center">Aspiring Data Scientist | Python & Data Analysis Enthusiast | Front-End Developer with Data Passion</h3>
+🌱 Always learning and improving  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joy-hazard" alt="joy-hazard" /></a> </p>
 
@@ -20,6 +21,13 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-2lQaTTcrRmfJ2gO-1EnLeaPpwAFp-0Z/view?usp=sharing](https://drive.google.com/file/d/1-2lQaTTcrRmfJ2gO-1EnLeaPpwAFp-0Z/view?usp=sharing)
 
 - ⚡ Fun fact **I love turning messy data into clear insights!**
+
+---
+
+### 🎯 Career Goal
+To grow as a **Data Analyst / Business Analyst / Project Coordinator**, contributing analytical insights that help organizations make better decisions.
+
+---
 
 
 ---
@@ -43,6 +51,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/joypal_hazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/joypal_hazard" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/joypal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/joypal/" height="30" width="40" /></a>
 </p>
+
 ---
 ### 🧠 Skills & Tools
 - 📈 Data Analysis: Excel (Pivot Tables, Dashboards), Python (Pandas, Matplotlib)
@@ -50,9 +59,9 @@
 - 🗂 Project Planning: Scheduling, Timelines, Documentation
 - 🌐 Web Basics: HTML, CSS, Bootstrap, JavaScript, React
 - 🛠 Tools: Git, GitHub, Figma
+  
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joy-hazard&show_icons=true&locale=en&layout=compact" alt="joy-hazard" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joy-hazard&show_icons=true&locale=en" alt="joy-hazard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-hazard&" alt="joy-hazard" /></p>
+
+⭐ If you like my work, feel free to explore and star the repositories!
