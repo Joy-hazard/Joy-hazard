@@ -2,8 +2,6 @@
 <h3 align="center">Aspiring Data Scientist | Python & Data Analysis Enthusiast | Front-End Developer with Data Passion</h3>
 🌱 Always learning and improving  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joy-hazard" alt="joy-hazard" /></a> </p>
-
 - 🔭 I’m currently working on **Data Analysis**
 
 - 🌱 I’m currently learning **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Data Analysis & Visualization**
@@ -18,8 +16,6 @@
 
 ### 🎯 Career Goal
 To grow as a **Data Analyst / Business Analyst / Project Coordinator**, contributing analytical insights that help organizations make better decisions.
-
----
 
 
 ---
@@ -53,7 +49,6 @@ To grow as a **Data Analyst / Business Analyst / Project Coordinator**, contribu
 - 🛠 Tools: Git, GitHub, Figma
   
 ---
-
 
 
 ⭐ If you like my work, feel free to explore and star the repositories!
